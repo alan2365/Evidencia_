@@ -1,0 +1,1 @@
+[{"id":"1","nombre":"diarrea","fecha":"domingo 15 2021","medico":{"id":"1","nombre":"alan","especialida":"genral"},"paciente":{"id":"3","nombre":"kiko"}},{"id":"2","nombre":"Vomitos","fecha":"lunes 15 2021","medico":{"id":"3","nombre":"pancho","especialida":"olas"},"paciente":{"id":"2","nombre":"Lila"}}]
