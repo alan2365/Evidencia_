@@ -1,0 +1,4 @@
+# Ignora todos los archivos con ese formato
+*.class
+*.swp
+*.txt
